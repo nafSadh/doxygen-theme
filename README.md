@@ -15,6 +15,7 @@ Example
 -------
 
 An example of documentation using this theme can be found at http://milik.cz/~jan/cppapp/docs/index.html.
+Another example of Metro theme is [here](http://nafsadh.github.io/scire/doc/).
 
 Installation
 ------------
@@ -34,4 +35,3 @@ file for the full text of the license.
 
 Alternatively, see the [GNU website](http://www.gnu.org/licenses/) for more
 infomation about GPL.
-
